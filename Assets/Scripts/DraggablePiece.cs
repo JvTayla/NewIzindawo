@@ -6,7 +6,6 @@ using UnityEngine.EventSystems;
 
 public class DraggablePiece : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler
 {
-<<<<<<< Updated upstream
     public enum PieceType
     {
         Circle,
@@ -26,10 +25,6 @@ public class DraggablePiece : MonoBehaviour, IBeginDragHandler, IEndDragHandler,
     public PieceType pieceType; // Enum to define piece type (Circle, Triangle, etc.)
     public ZoneType currentZone; // Enum to define current zone (Pink, Blue, Yellow, etc.)
 
-=======
-    public Image image;
-    [HideInInspector] public Transform parentAfterDrag;
->>>>>>> Stashed changes
     public void OnBeginDrag(PointerEventData eventData)
     {
         Debug.Log("Begin drag");
@@ -50,10 +45,5 @@ public class DraggablePiece : MonoBehaviour, IBeginDragHandler, IEndDragHandler,
         Debug.Log("End drag");
         transform.SetParent(parentAfterDrag);
         image.raycastTarget = true;
-<<<<<<< Updated upstream
     }
-=======
-
-    } 
->>>>>>> Stashed changes
 }

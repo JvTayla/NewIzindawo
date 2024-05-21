@@ -413,12 +413,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 49441582}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
---- !u!1 &118724153
-=======
->>>>>>> Stashed changes
 --- !u!114 &49441588
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -456,10 +450,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &50584986
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -467,15 +457,6 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  - component: {fileID: 118724154}
-  m_Layer: 0
-  m_Name: PlaceHolderI3_2
-  m_TagString: PlaceHolder
-=======
->>>>>>> Stashed changes
   - component: {fileID: 50584987}
   - component: {fileID: 50584991}
   - component: {fileID: 50584990}
@@ -484,44 +465,16 @@ GameObject:
   m_Layer: 0
   m_Name: IntersectionCells
   m_TagString: Untagged
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< Updated upstream
 --- !u!224 &50584987
 RectTransform:
-=======
-<<<<<<< HEAD
---- !u!4 &118724154
-Transform:
-=======
---- !u!224 &50584987
-RectTransform:
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 118724153}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.303, y: 0.073, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1397731393}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 50584986}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.0000010260711}
@@ -1034,10 +987,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 144746868}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 --- !u!1 &197694157
 GameObject:
   m_ObjectHideFlags: 0
@@ -1229,109 +1178,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 218940500}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
 --- !u!114 &218940505
-=======
-<<<<<<< HEAD
---- !u!1 &250457569
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 250457570}
-  m_Layer: 0
-  m_Name: PlaceHolderI2_3
-  m_TagString: PlaceHolder
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &250457570
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 250457569}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.61, y: -0.98, z: -0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1434926807}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &251870639
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 251870640}
-  - component: {fileID: 251870641}
-  m_Layer: 0
-  m_Name: Intersections
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &251870640
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 251870639}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 13.158936, y: 44.41919, z: 7.5916815}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1051789301}
-  - {fileID: 1434926807}
-  - {fileID: 1397731393}
-  m_Father: {fileID: 941095261}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &251870641
-=======
---- !u!114 &218940505
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 251870639}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf6c48a62768e954ba6552ddcc00bfc6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  placeholderI1:
-  - {fileID: 1489204781}
-  - {fileID: 1538016911}
-  - {fileID: 952985298}
-  placeholderI2:
-  - {fileID: 980270925}
-  - {fileID: 567559952}
-  - {fileID: 250457569}
-  placeholderI3:
-  - {fileID: 986123438}
-  - {fileID: 118724153}
-  - {fileID: 1287415105}
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 218940500}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -1362,10 +1214,6 @@ MonoBehaviour:
   m_Spacing: {x: 0, y: 0}
   m_Constraint: 0
   m_ConstraintCount: 2
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 --- !u!1 &268982306
 GameObject:
   m_ObjectHideFlags: 0
@@ -2834,12 +2682,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 520744834}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
---- !u!1 &567559952
-=======
->>>>>>> Stashed changes
 --- !u!114 &520744840
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2865,10 +2707,6 @@ MonoBehaviour:
   m_Constraint: 0
   m_ConstraintCount: 2
 --- !u!1 &553362616
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2876,15 +2714,6 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  - component: {fileID: 567559953}
-  m_Layer: 0
-  m_Name: PlaceHolderI2_2
-  m_TagString: PlaceHolder
-=======
->>>>>>> Stashed changes
   - component: {fileID: 553362617}
   - component: {fileID: 553362620}
   - component: {fileID: 553362619}
@@ -2892,44 +2721,16 @@ GameObject:
   m_Layer: 0
   m_Name: Intersection
   m_TagString: Untagged
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< Updated upstream
 --- !u!224 &553362617
 RectTransform:
-=======
-<<<<<<< HEAD
---- !u!4 &567559953
-Transform:
-=======
---- !u!224 &553362617
-RectTransform:
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 567559952}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.18, y: 0.07, z: -0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1434926807}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 553362616}
   m_LocalRotation: {x: -0.008224457, y: 0.014245179, z: 0.86590827, w: 0.4999323}
   m_LocalPosition: {x: 0, y: 0, z: 13.1}
@@ -3021,11 +2822,7 @@ GameObject:
   - component: {fileID: 573936889}
   - component: {fileID: 573936888}
   m_Layer: 0
-<<<<<<< Updated upstream
   m_Name: WhiteBlock
-=======
-  m_Name: WhiteBlock (1)
->>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3113,10 +2910,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 573936886}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 --- !u!1 &591869078
 GameObject:
   m_ObjectHideFlags: 0
@@ -5563,18 +5356,8 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-<<<<<<< Updated upstream
   m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 25
-=======
-<<<<<<< HEAD
-  m_VertexColorAlwaysGammaSpace: 1
-  m_AdditionalShaderChannelsFlag: 0
-=======
-  m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 25
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
@@ -5597,25 +5380,12 @@ RectTransform:
   - {fileID: 1440029925}
   - {fileID: 2103604377}
   - {fileID: 1633449879}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  - {fileID: 251870640}
-  - {fileID: 1390270694}
-  - {fileID: 1210365684}
-  - {fileID: 1335442173}
-=======
->>>>>>> Stashed changes
   - {fileID: 1204598952}
   - {fileID: 144746869}
   - {fileID: 757733540}
   - {fileID: 88427346}
   - {fileID: 573936887}
   - {fileID: 1780656849}
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -5700,39 +5470,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 945388896}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
 --- !u!114 &945388901
 MonoBehaviour:
-=======
-<<<<<<< HEAD
---- !u!1 &952985298
-GameObject:
-=======
---- !u!114 &945388901
-MonoBehaviour:
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 952985299}
-  m_Layer: 0
-  m_Name: PlaceHolderI1_3
-  m_TagString: PlaceHolder
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &952985299
-Transform:
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 945388896}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -5741,28 +5484,10 @@ Transform:
   m_EditorClassIdentifier: 
 --- !u!114 &945388902
 MonoBehaviour:
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 952985298}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.736, y: -0.977, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1051789301}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 945388896}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -5781,10 +5506,6 @@ MonoBehaviour:
   m_Spacing: {x: 0, y: 0}
   m_Constraint: 0
   m_ConstraintCount: 2
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 --- !u!1 &970685872
 GameObject:
   m_ObjectHideFlags: 0
@@ -5976,12 +5697,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 978148473}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
---- !u!1 &980270925
-=======
->>>>>>> Stashed changes
 --- !u!114 &978148478
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6019,10 +5734,6 @@ MonoBehaviour:
   m_Constraint: 0
   m_ConstraintCount: 2
 --- !u!1 &987648095
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6030,61 +5741,22 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  - component: {fileID: 980270926}
-  m_Layer: 0
-  m_Name: PlaceHolderI2_1
-  m_TagString: PlaceHolder
-=======
->>>>>>> Stashed changes
   - component: {fileID: 987648096}
   - component: {fileID: 987648098}
   - component: {fileID: 987648097}
   m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< Updated upstream
 --- !u!224 &987648096
 RectTransform:
-=======
-<<<<<<< HEAD
---- !u!4 &980270926
-Transform:
-=======
---- !u!224 &987648096
-RectTransform:
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 980270925}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.13, y: 0.07, z: -0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1434926807}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &986123438
-GameObject:
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 987648095}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -6100,31 +5772,10 @@ GameObject:
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &987648097
 MonoBehaviour:
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 986123439}
-  m_Layer: 0
-  m_Name: PlaceHolderI3_1
-  m_TagString: PlaceHolder
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &986123439
-Transform:
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 987648095}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -6210,33 +5861,12 @@ Transform:
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &987648098
 CanvasRenderer:
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 987648095}
   m_CullTransparentMesh: 1
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 986123438}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.256, y: 0.073, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1397731393}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
-  m_GameObject: {fileID: 987648095}
-  m_CullTransparentMesh: 1
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 --- !u!1 &993615322
 GameObject:
   m_ObjectHideFlags: 0
@@ -6428,52 +6058,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1027714736}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
 --- !u!114 &1027714741
-=======
-<<<<<<< HEAD
---- !u!1 &1051789300
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1051789301}
-  - component: {fileID: 1051789303}
-  - component: {fileID: 1051789302}
-  - component: {fileID: 1051789304}
-  m_Layer: 0
-  m_Name: Intersection1
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1051789301
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1051789300}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0.016449196, y: -0, z: -0, w: 0.9998647}
-  m_LocalPosition: {x: 34.841064, y: 178.8808, z: -5.5916815}
-  m_LocalScale: {x: 70.64841, y: 73.02012, z: 73.02012}
-  m_ConstrainProportionsScale: 1
-  m_Children:
-  - {fileID: 1489204782}
-  - {fileID: 1538016912}
-  - {fileID: 952985299}
-  m_Father: {fileID: 251870640}
-  m_LocalEulerAnglesHint: {x: -1.885, y: 0, z: 0}
---- !u!114 &1051789302
-=======
---- !u!114 &1027714741
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6493,74 +6078,6 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1027714736}
   m_Enabled: 1
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 0
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Color: {r: 0.8301887, g: 0.8301887, b: 0.8301887, a: 1}
-  m_MaskInteraction: 0
-  m_ShapeTexture: {fileID: 2800000, guid: b281b91a70a624a0da1c43adc1c30c7b, type: 3}
-  m_Sprites:
-  - {fileID: 21300000, guid: 0ae2b74b1edd14bb18dd7b65ae916a54, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  m_LocalAABB:
-    m_Center: {x: -0.6772219, y: -0.2847923, z: 0}
-    m_Extent: {x: 1.3385609, y: 1.2990508, z: 0}
-  m_SpriteSortPoint: 0
---- !u!114 &1051789304
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1051789300}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 092e0103aeff87342aebe677688e0bae, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-=======
->>>>>>> Stashed changes
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
   m_Name: 
@@ -6577,10 +6094,6 @@ MonoBehaviour:
   m_Spacing: {x: 0, y: 0}
   m_Constraint: 0
   m_ConstraintCount: 2
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 --- !u!1 &1061905891
 GameObject:
   m_ObjectHideFlags: 0
@@ -8681,39 +8194,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1287066391}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
 --- !u!114 &1287066397
 MonoBehaviour:
-=======
-<<<<<<< HEAD
---- !u!1 &1287415105
-GameObject:
-=======
---- !u!114 &1287066397
-MonoBehaviour:
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1287415106}
-  m_Layer: 0
-  m_Name: PlaceHolderI3_3
-  m_TagString: PlaceHolder
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1287415106
-Transform:
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 1287066391}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -8734,38 +8220,16 @@ Transform:
   m_ConstraintCount: 2
 --- !u!114 &1287066398
 MonoBehaviour:
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 1287415105}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.736, y: -0.977, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1397731393}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 1287066391}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bb81f8cfe1f433f4ca07def75baa4c17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 --- !u!1 &1289304602
 GameObject:
   m_ObjectHideFlags: 0
@@ -9416,30 +8880,12 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
   - component: {fileID: 1390578082}
   - component: {fileID: 1390578085}
   - component: {fileID: 1390578084}
   - component: {fileID: 1390578083}
   m_Layer: 0
   m_Name: YellowCircle (3)
-=======
-<<<<<<< HEAD
-  - component: {fileID: 1397731393}
-  - component: {fileID: 1397731395}
-  - component: {fileID: 1397731394}
-  - component: {fileID: 1397731396}
-  m_Layer: 0
-  m_Name: Intersection3
-=======
-  - component: {fileID: 1390578082}
-  - component: {fileID: 1390578085}
-  - component: {fileID: 1390578084}
-  - component: {fileID: 1390578083}
-  m_Layer: 0
-  m_Name: YellowCircle (3)
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9451,34 +8897,11 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 1390578081}
   m_LocalRotation: {x: -0, y: -0, z: 0.92387956, w: 0.38268343}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1.9235003, y: 1.9235003, z: 1.9235013}
   m_ConstrainProportionsScale: 0
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 1397731392}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0.0082244575, y: 0.014245179, z: 0.8659083, w: 0.4999323}
-  m_LocalPosition: {x: -207.25894, y: -74.41919, z: 3.4083185}
-  m_LocalScale: {x: 70.64839, y: 73.0201, z: 73.02011}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 986123439}
-  - {fileID: 118724154}
-  - {fileID: 1287415106}
-  m_Father: {fileID: 251870640}
-  m_LocalEulerAnglesHint: {x: -1.885, y: 0, z: 120}
---- !u!114 &1397731394
-=======
-  m_GameObject: {fileID: 1390578081}
-  m_LocalRotation: {x: -0, y: -0, z: 0.92387956, w: 0.38268343}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.9235003, y: 1.9235003, z: 1.9235013}
-  m_ConstrainProportionsScale: 0
->>>>>>> Stashed changes
   m_Children: []
   m_Father: {fileID: 1182020625}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -9488,10 +8911,6 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1390578083
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9513,64 +8932,6 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1390578081}
   m_Enabled: 1
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 0
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Color: {r: 0.8301887, g: 0.8301887, b: 0.8301887, a: 1}
-  m_MaskInteraction: 0
-  m_ShapeTexture: {fileID: 2800000, guid: b281b91a70a624a0da1c43adc1c30c7b, type: 3}
-  m_Sprites:
-  - {fileID: 21300000, guid: 0ae2b74b1edd14bb18dd7b65ae916a54, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  m_LocalAABB:
-    m_Center: {x: -0.6772219, y: -0.2847923, z: 0}
-    m_Extent: {x: 1.3385609, y: 1.2990508, z: 0}
-  m_SpriteSortPoint: 0
---- !u!114 &1397731396
-MonoBehaviour:
-=======
->>>>>>> Stashed changes
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -9595,30 +8956,12 @@ MonoBehaviour:
   m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1390578085
 CanvasRenderer:
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 1390578081}
   m_CullTransparentMesh: 1
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 1397731392}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 092e0103aeff87342aebe677688e0bae, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-=======
-  m_GameObject: {fileID: 1390578081}
-  m_CullTransparentMesh: 1
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 --- !u!1 &1409799240
 GameObject:
   m_ObjectHideFlags: 0
@@ -9740,28 +9083,11 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
   - component: {fileID: 1429011484}
   - component: {fileID: 1429011486}
   - component: {fileID: 1429011485}
   m_Layer: 0
   m_Name: Text (TMP)
-=======
-<<<<<<< HEAD
-  - component: {fileID: 1434926807}
-  - component: {fileID: 1434926809}
-  - component: {fileID: 1434926808}
-  - component: {fileID: 1434926810}
-  m_Layer: 0
-  m_Name: Intersection2
-=======
-  - component: {fileID: 1429011484}
-  - component: {fileID: 1429011486}
-  - component: {fileID: 1429011485}
-  m_Layer: 0
-  m_Name: Text (TMP)
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9773,34 +9099,11 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 1429011483}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 1434926806}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0.008224458, y: 0.014245178, z: 0.86590827, w: -0.49993235}
-  m_LocalPosition: {x: 133.44104, y: -157.22919, z: 5.362319}
-  m_LocalScale: {x: 70.648415, y: 73.020096, z: 73.02011}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 980270926}
-  - {fileID: 567559953}
-  - {fileID: 250457570}
-  m_Father: {fileID: 251870640}
-  m_LocalEulerAnglesHint: {x: -1.885, y: 0, z: 240}
---- !u!114 &1434926808
-=======
-  m_GameObject: {fileID: 1429011483}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
->>>>>>> Stashed changes
   m_Children: []
   m_Father: {fileID: 757733540}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -9810,10 +9113,6 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1429011485
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9956,63 +9255,6 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1434033979}
   m_Enabled: 1
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 0
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Color: {r: 0.8301887, g: 0.8301887, b: 0.8301887, a: 1}
-  m_MaskInteraction: 0
-  m_ShapeTexture: {fileID: 2800000, guid: b281b91a70a624a0da1c43adc1c30c7b, type: 3}
-  m_Sprites:
-  - {fileID: 21300000, guid: 0ae2b74b1edd14bb18dd7b65ae916a54, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
-  m_LocalAABB:
-    m_Center: {x: -0.6772219, y: -0.2847923, z: 0}
-    m_Extent: {x: 1.3385609, y: 1.2990508, z: 0}
-  m_SpriteSortPoint: 0
---- !u!114 &1434926810
-=======
->>>>>>> Stashed changes
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c374162d9f4e5b4f8f58508d4caffc9, type: 3}
   m_Name: 
@@ -10020,26 +9262,11 @@ MonoBehaviour:
   image: {fileID: 1434033982}
   parentAfterDrag: {fileID: 0}
 --- !u!114 &1434033982
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 1434926806}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 092e0103aeff87342aebe677688e0bae, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 1434033979}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -10072,10 +9299,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1434033979}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 --- !u!1 &1440029924
 GameObject:
   m_ObjectHideFlags: 0
@@ -10751,39 +9974,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1473154283}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
 --- !u!114 &1473154289
 MonoBehaviour:
-=======
-<<<<<<< HEAD
---- !u!1 &1489204781
-GameObject:
-=======
---- !u!114 &1473154289
-MonoBehaviour:
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1489204782}
-  m_Layer: 0
-  m_Name: PlaceHolderI1_1
-  m_TagString: PlaceHolder
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1489204782
-Transform:
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 1473154283}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -10804,38 +10000,16 @@ Transform:
   m_ConstraintCount: 2
 --- !u!114 &1473154290
 MonoBehaviour:
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 1489204781}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.256, y: 0.073, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1051789301}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 1473154283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bb81f8cfe1f433f4ca07def75baa4c17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 --- !u!1 &1531652112
 GameObject:
   m_ObjectHideFlags: 0
@@ -10913,39 +10087,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1531652112}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
 --- !u!114 &1531652117
 MonoBehaviour:
-=======
-<<<<<<< HEAD
---- !u!1 &1538016911
-GameObject:
-=======
---- !u!114 &1531652117
-MonoBehaviour:
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1538016912}
-  m_Layer: 0
-  m_Name: PlaceHolderI1_2
-  m_TagString: PlaceHolder
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1538016912
-Transform:
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 1531652112}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -10954,28 +10101,10 @@ Transform:
   m_EditorClassIdentifier: 
 --- !u!114 &1531652118
 MonoBehaviour:
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  m_GameObject: {fileID: 1538016911}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.303, y: 0.073, z: -0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1051789301}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 1531652112}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -10994,10 +10123,6 @@ MonoBehaviour:
   m_Spacing: {x: 0, y: 0}
   m_Constraint: 0
   m_ConstraintCount: 2
-<<<<<<< Updated upstream
-=======
->>>>>>> a3bdd8983f2b75757bc343059bf7ec0b7312c98c
->>>>>>> Stashed changes
 --- !u!1 &1549365109
 GameObject:
   m_ObjectHideFlags: 0
@@ -12259,11 +11384,7 @@ GameObject:
   - component: {fileID: 1780656851}
   - component: {fileID: 1780656850}
   m_Layer: 0
-<<<<<<< Updated upstream
   m_Name: WhiteBlock
-=======
-  m_Name: WhiteBlock (2)
->>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
