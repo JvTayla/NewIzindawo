@@ -11,6 +11,9 @@ TagManager:
   - IntersectionCells
   - BlankCells
   - YellowCirclePiece
+  - Pink
+  - Blue
+  - Yellow
   layers:
   - Default
   - TransparentFX

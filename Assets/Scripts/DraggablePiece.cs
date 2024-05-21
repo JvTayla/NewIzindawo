@@ -6,13 +6,16 @@ using UnityEngine.EventSystems;
 
 public class DraggablePiece : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler
 {
+
   
 
     public Image image;
     [HideInInspector] public Transform parentAfterDrag;
-    public GridCellSlot.PieceType pieceType; // Enum to define piece type (Circle, Triangle, etc.)
-    public GridCellSlot.ZoneType currentZone; // Enum to define current zone (Pink, Blue, Yellow, etc.)
+    public GridCellSlot.PieceType pieceType; 
+    public ZoneManager.ZoneType currentZone; 
 
+ 
+ 
     public void OnBeginDrag(PointerEventData eventData)
     {
         Debug.Log("Begin drag");
