@@ -6,6 +6,7 @@ using UnityEngine.EventSystems;
 public class GridCellSlot : MonoBehaviour, IDropHandler
 {
     public void OnDrop(PointerEventData eventData)
+<<<<<<< Updated upstream
     {
         if (transform.childCount == 0)
         {
@@ -35,6 +36,13 @@ public class GridCellSlot : MonoBehaviour, IDropHandler
             }
 
             draggedPiece.parentAfterDrag = transform;
+=======
+    { if (transform.childCount == 0)
+        { 
+        GameObject dropped = eventData.pointerDrag;
+        DraggablePiece draggedPiece = dropped.GetComponent<DraggablePiece>();
+        draggedPiece.parentAfterDrag = transform;
+>>>>>>> Stashed changes
         }
     }
 }

@@ -11,6 +11,7 @@ TagManager:
   - IntersectionCells
   - BlankCells
   - YellowCirclePiece
+  - PlaceHolder
   layers:
   - Default
   - TransparentFX
