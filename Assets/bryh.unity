@@ -2822,7 +2822,7 @@ GameObject:
   - component: {fileID: 573936889}
   - component: {fileID: 573936888}
   m_Layer: 0
-  m_Name: WhiteBlock (1)
+  m_Name: WhiteBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11384,7 +11384,7 @@ GameObject:
   - component: {fileID: 1780656851}
   - component: {fileID: 1780656850}
   m_Layer: 0
-  m_Name: WhiteBlock (2)
+  m_Name: WhiteBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
