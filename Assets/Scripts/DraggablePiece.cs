@@ -4,18 +4,72 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-public class DraggablePiece : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler
+public class DraggablePiece : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler 
 {
 
-  
-
     public Image image;
+    private Transform parentAfterDrag;
+    public GridCellSlot.PieceType pieceType;
+    public ZoneManager.ZoneType currentZone;
+
+    private void Start()
+    {
+        parentAfterDrag = transform.parent;
+    }
+
+    public void OnBeginDrag(PointerEventData eventData)
+    {
+        Debug.Log("Begin drag");
+        transform.SetParent(transform.root);
+        transform.SetAsLastSibling();
+        image.raycastTarget = false;
+    }
+
+    public void OnDrag(PointerEventData eventData)
+    {
+        Debug.Log("Dragging");
+        transform.position = eventData.position;
+    }
+
+    public void OnEndDrag(PointerEventData eventData)
+    {
+        Debug.Log("End drag");
+        image.raycastTarget = true;
+    }
+
+    public void OnDrop(PointerEventData eventData)
+    {
+        Debug.Log("Dropped on Grid Cell Slot");
+        GridCellSlot gridCell = eventData.pointerEnter.GetComponent<GridCellSlot>();
+        if (gridCell != null)
+        {
+            if (gridCell.transform.childCount == 0)
+            {
+                transform.SetParent(gridCell.transform);
+                transform.localPosition = Vector3.zero;
+            }
+            else
+            {
+                Debug.Log("Grid cell is not empty.");
+                // Handle the case when the grid cell is not empty
+            }
+        }
+        else
+        {
+            // If dropped outside the grid, return the piece to its original position
+            transform.SetParent(parentAfterDrag);
+            transform.localPosition = Vector3.zero;
+        }
+    }
+
+
+    /*public Image image;
     [HideInInspector] public Transform parentAfterDrag;
     public GridCellSlot.PieceType pieceType; 
-    public ZoneManager.ZoneType currentZone; 
+    public ZoneManager.ZoneType currentZone;
 
- 
- 
+
+
     public void OnBeginDrag(PointerEventData eventData)
     {
         Debug.Log("Begin drag");
@@ -31,10 +85,11 @@ public class DraggablePiece : MonoBehaviour, IBeginDragHandler, IEndDragHandler,
         transform.position = Input.mousePosition;
     }
 
-    public void OnEndDrag(PointerEventData eventData)
+    public void OnDrop(PointerEventData eventData)
     {
         Debug.Log("End drag");
         transform.SetParent(parentAfterDrag);
         image.raycastTarget = true;
-    }
+
+    }*/
 }

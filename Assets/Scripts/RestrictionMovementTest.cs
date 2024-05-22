@@ -5,7 +5,8 @@ using static GridCellSlot;
 using UnityEngine.EventSystems;
 
 public class RestrictionMovementTest : MonoBehaviour
-{
+{ }
+/*{
     public void OnDrop(PointerEventData eventData)
     {
         if (transform.childCount == 0)
@@ -90,3 +91,4 @@ public class RestrictionMovementTest : MonoBehaviour
         }
     }
 }
+    */
