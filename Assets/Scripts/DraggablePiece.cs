@@ -12,10 +12,16 @@ public class DraggablePiece : MonoBehaviour, IBeginDragHandler, IEndDragHandler,
     public GridCellSlot.PieceType pieceType;
     public ZoneManager.ZoneType currentZone;
 
+    //private RectTransform rectTransform;
     private void Start()
     {
         parentAfterDrag = transform.parent;
     }
+
+    //public void Awake()
+    //{
+    //    rectTransform = GetComponent<RectTransform>();
+    //}
 
     public void OnBeginDrag(PointerEventData eventData)
     {
@@ -28,7 +34,13 @@ public class DraggablePiece : MonoBehaviour, IBeginDragHandler, IEndDragHandler,
     public void OnDrag(PointerEventData eventData)
     {
         Debug.Log("Dragging");
-        transform.position = eventData.position;
+
+        // Convert screen position to world position
+        Vector3 screenPos = new Vector3(eventData.position.x, eventData.position.y, Camera.main.nearClipPlane);
+        Vector3 worldPos = Camera.main.ScreenToWorldPoint(screenPos);
+
+        // Set the position of the piece to the calculated world position
+        transform.position = worldPos;
     }
 
     public void OnEndDrag(PointerEventData eventData)
