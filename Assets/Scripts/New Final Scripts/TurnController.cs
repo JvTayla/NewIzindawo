@@ -4,7 +4,6 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using TMPro;
-using UnityEditor.Experimental.GraphView;
 
 public enum GameStates
 {
@@ -134,8 +133,8 @@ public class TurnController : MonoBehaviour
             CameraController.CameraBluePosition();
             if(movementController.turnNumber == 1)
             {
-                movementController.circleMove = 55;
-                movementController.triangleMove = 500;
+                movementController.circleMove = 4;
+                movementController.triangleMove = 1;
             }
             else if (movementController.turnNumber > 1)
             {

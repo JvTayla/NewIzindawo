@@ -8,7 +8,22 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/bryh.unity
     guid: d92844a66c4d1bd4ba98644556947f04
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 9442b7cf18052b246937b473273b393a
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: afdf0d781056c144386e9baa98cfe37b
+  - enabled: 1
+    path: Assets/Scenes/PinkWinsScene.unity
+    guid: e2096ab13d77e6e49b1c45bcd9e151d6
+  - enabled: 1
+    path: Assets/Scenes/YellowWinsScene.unity
+    guid: 123c0dbc14cbd0b4b8e1cdb4654242f4
+  - enabled: 1
+    path: Assets/Scenes/BlueWinsScene.unity
+    guid: d83734a9a8bf0f249b72af6614ac1b96
   m_configObjects: {}
