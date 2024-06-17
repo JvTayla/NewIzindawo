@@ -4,18 +4,25 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Yellow Heart Zone
   - YellowGridCells
   - PinkGridCells
   - BlueGridCells
   - IntersectionCells
   - BlankCells
-  - YellowCirclePiece
   - Pink
   - Blue
   - Yellow
-  - Cell
   - Timer
+  - HeartZone
+  - PinkRightInt
+  - PinkLeftInt
+  - BlueRightInt
+  - BlueLeftInt
+  - YlwRightInt
+  - YlwLeftInt
+  - IntersectionYP
+  - IntersectionBY
+  - IntersectionPB
   layers:
   - Default
   - TransparentFX
